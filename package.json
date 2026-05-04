@@ -1,0 +1,6 @@
+{
+  "name": "agent-fornis-generador-de-contrasenas-segur-morkrgbu",
+  "version": "1.0.0",
+  "description": "Proyecto de Fornis [Gen13]: generador de contrasenas seguras con medidor de entropia",
+  "main": "index.js"
+}
